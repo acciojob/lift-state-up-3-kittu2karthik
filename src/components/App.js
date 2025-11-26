@@ -21,7 +21,7 @@ const App = () => {
           <ChildComponent2 onSelectedOption={handleSelectedOption} />
         </div>
 
-        <p>Selected Option: ${selectedOption}</p>
+        <p>Selected Option: {selectedOption}</p>
      
     </div>
   );
