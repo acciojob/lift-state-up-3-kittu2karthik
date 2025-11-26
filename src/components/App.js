@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import selectedOption from "./selectedOption";
 import "./../styles/App.css";
 import ChildComponent1 from "./ChildComponent1";
 import ChildComponent2 from "./ChildComponent2";
